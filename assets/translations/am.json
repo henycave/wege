@@ -1,0 +1,17 @@
+{
+  "log_in": "ግባ",
+  "register": "ይመዝገቡ",
+  "enter_email": "ኢሜልዎን ያስገቡ",
+  "enter_password": "የይለፍ ቃልዎን ያስገቡ",
+  "enter_f_name": "የእርስዎን ስም ያስገቡ",
+  "enter_l_name": "የአባትዎን ስም ያስገቡ",
+  "enter_age": "እድሜዎን ያስገቡ",
+  "weg": " ወግ",
+  "buna_chat": "የቡና ወግ",
+  "send": "ላክ",
+  "type_message_here": "መልክትዎን እዚህ ላይ ያስፍሩ",
+  "log_out": "ውጣ",
+  "profile": "መገለጫ",
+  "see_profile": "መገለጫ ይመልከቱ",
+  "enter_gender": "ፆታዎን ያስገቡ"
+}

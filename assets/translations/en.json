@@ -1,0 +1,17 @@
+{
+  "log_in": "Log In",
+  "register": "Register",
+  "enter_email": "Enter your email",
+  "enter_password": "Enter your password",
+  "enter_f_name": "Enter your First Name",
+  "enter_l_name": "Enter your Last Name",
+  "enter_age": "Enter your Age",
+  "weg": "Weg",
+  "buna_chat": "Buna Chat",
+  "send": "Send",
+  "type_message_here": "Type your message here",
+  "log_out": "Log Out",
+  "profile": "Profile",
+  "see_profile": "See Profile",
+  "enter_gender": "Enter your Gender"
+}

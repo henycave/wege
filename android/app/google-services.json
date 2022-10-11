@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99310252791",
+    "firebase_url": "https://flash-chat-d0939.firebaseio.com",
+    "project_id": "flash-chat-d0939",
+    "storage_bucket": "flash-chat-d0939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99310252791:android:31f0200f0edbb12b29d9f2",
+        "android_client_info": {
+          "package_name": "co.HenyCave.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99310252791-ktgba07keu0m5o45v4vd0fq2cp84gpes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxOXAO8iv-c8Z4CcIWo_ca5yntofx3rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99310252791-ktgba07keu0m5o45v4vd0fq2cp84gpes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
